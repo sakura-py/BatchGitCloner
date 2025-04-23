@@ -1,0 +1,15 @@
+{
+  "basePath": "D:\\Code\\go",
+  "repos": [
+    {
+      "url": "https://github.com/sakura-py/BatchGitCloner.git",
+      "branch": "master",
+      "path": ""
+    },
+    {
+      "url": "https://github.com/sakura-py/BatchGitCloner.git",
+      "branch": "master",
+      "path": ""
+    }
+  ]
+}
